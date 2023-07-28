@@ -6,7 +6,7 @@ The objective of Quora duplicate question pair detection project is to identify 
 ![UI](https://github.com/prasadkanthuri/Portfolio/assets/135444495/d2683412-94c3-46c1-9cab-475accf279e8)
 
 
-# <h1 color = 'Red'>2. Customer Segmentation Analysis Project:</h1>
+# 2. Customer Segmentation Analysis Project:
 The objective of a customer clustering project is to identify groups of customers with similar characteristics. This can be used to improve customer segmentation, target marketing campaigns, and develop new products and services.
 I will be performing an unsupervised clustering of data on the customer's records from a groceries firm's database.
 
@@ -14,12 +14,16 @@ I will be performing an unsupervised clustering of data on the customer's record
 ![Segmentation project2](https://github.com/prasadkanthuri/Portfolio/assets/135444495/2a2707df-8dfd-4bcf-a10b-76d38b88391e)
 
 
+# 3. Collaborative recommendation engine - Books recommendation:
+It attempts to find users that have similar preferences and opinions as the input and then recommends items that they have liked to the input.
+
+![Recommendation engine](https://github.com/prasadkanthuri/Portfolio/assets/135444495/faf87ca9-72dc-4159-8db9-b065f134caa7)
 
 
 
 
 
-# 3. SMS SPAM Classifier
+# 4. SMS SPAM Classifier
 Spam is a major problem for users. It can be time-consuming and annoying to filter out spam messages, and it can also be a security risk.
 The objective of this project is to develop a spam classifier that can be used to automatically classify messages as spam or ham (not spam). This can help users to quickly and easily identify and filter out spam messages.
 ![Screenshot 2023-07-24 171215](https://github.com/prasadkanthuri/Portfolio/assets/135444495/ba65f4d5-aca8-44da-8f7b-c74c244ab591)
