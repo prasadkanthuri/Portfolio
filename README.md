@@ -9,7 +9,11 @@ The objective of Quora duplicate question pair detection project is to identify 
 The objective of a customer clustering project is to identify groups of customers with similar characteristics. This can be used to improve customer segmentation, target marketing campaigns, and develop new products and services.
 I will be performing an unsupervised clustering of data on the customer's records from a groceries firm's database.
 
-![Segmentation project](https://github.com/prasadkanthuri/Portfolio/assets/135444495/cc947f6b-7f3a-4d05-91d1-6ad39bc405a4)
+![Segmentation project1](https://github.com/prasadkanthuri/Portfolio/assets/135444495/93f51223-e269-4925-8a64-6970e3e5f807)
+![Uploading Segmentation project1.png…]()
+
+
+
 
 
 # 3. SMS SPAM Classifier
