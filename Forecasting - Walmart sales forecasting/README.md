@@ -1,0 +1,4 @@
+# Forecasting  - Walmart Sales
+The objective of this project is to develop a machine learning model that can accurately forecast sales for the next year.This will be achieved by using a Time series techniques to train the model on historical sales data, as well as other relevant factors such as Temperature on the given date and CPI at that time. The model will be evaluated on its ability to predict future sales with high accuracy, and the results will be used to inform business decisions about inventory management, Resource allocation, Marketing strategies...etc.
+![fbprophet](https://github.com/prasadkanthuri/Portfolio/assets/135444495/1ff91b8b-a1ab-41d0-8664-ec95f05cf61c)
+![actual vs forecast](https://github.com/prasadkanthuri/Portfolio/assets/135444495/75eb42ba-b288-4d76-8671-3b6eedc4ae86)
