@@ -19,15 +19,21 @@ It attempts to find users that have similar preferences and opinions as the inpu
 
 ![Recommendation engine](https://github.com/prasadkanthuri/Portfolio/assets/135444495/faf87ca9-72dc-4159-8db9-b065f134caa7)
 
+# 4. Forecasting - Walmart sales
+The objective of this project is to develop a machine learning model that can accurately forecast sales for the next year.This will be achieved by using a Time series techniques to train the model on historical sales data, as well as other relevant factors such as Temperature on the given date and CPI at that time. The model will be evaluated on its ability to predict future sales with high accuracy, and the results will be used to inform business decisions about inventory management, Resource allocation, Marketing strategies...etc.
+![fbprophet](https://github.com/prasadkanthuri/Portfolio/assets/135444495/01b1339a-532d-4d4f-868a-78a48a0fa24e)
+![actual vs forecast](https://github.com/prasadkanthuri/Portfolio/assets/135444495/d5ab182a-a741-4347-a21d-d78bf50beaf4)
 
 
-# 4. SMS SPAM Classifier
+
+
+# 5. SMS SPAM Classifier
 Spam is a major problem for users. It can be time-consuming and annoying to filter out spam messages, and it can also be a security risk.
 The objective of this project is to develop a spam classifier that can be used to automatically classify messages as spam or ham (not spam). This can help users to quickly and easily identify and filter out spam messages.
 ![Screenshot 2023-07-24 171215](https://github.com/prasadkanthuri/Portfolio/assets/135444495/ba65f4d5-aca8-44da-8f7b-c74c244ab591)
 
 
-# 5. Laptop price predictor
+# 6. Laptop price predictor
 The objective is to develop a laptop price predictor model that can accurately predict the price of a laptop based on its features. The model will be evaluated using a variety of metrics, such as R2 score and MAE. The model will be deployed as a web application so that consumers can use it to make informed decisions about which laptop to buy.
 
 ![Laptop Price Predictor](https://github.com/prasadkanthuri/Portfolio/assets/135444495/d87fce74-2419-4303-a7c2-41e64855ccf1)
