@@ -26,14 +26,19 @@ The objective of this project is to develop a machine learning model that can ac
 
 
 
-
 # 5. SMS SPAM Classifier
 Spam is a major problem for users. It can be time-consuming and annoying to filter out spam messages, and it can also be a security risk.
 The objective of this project is to develop a spam classifier that can be used to automatically classify messages as spam or ham (not spam). This can help users to quickly and easily identify and filter out spam messages.
 ![Screenshot 2023-07-24 171215](https://github.com/prasadkanthuri/Portfolio/assets/135444495/ba65f4d5-aca8-44da-8f7b-c74c244ab591)
 
+# 6. Content based recommendation engine
+The objective of a content-based recommendation system is to recommend items to a user that are similar to items that the user has previously interacted with. This is done by extracting features from the items that the user has interacted with and then using these features to find other items that are similar. The features that are extracted from the items can vary depending on the type of item. For example, for movies, the features could include the genre, the cast, the director, and the plot. For books, the features could include the genre, the author, the title, and the keywords. Once the features have been extracted, they are used to create a vector representation of each item. This vector representation is then used to calculate the similarity between items. The items that are most similar to the items that the user has interacted with are then recommended to the user.
 
-# 6. Laptop price predictor
+Our objective here is to create a content based recommendation engine using IMDB movies data set
+![recommendation engine](https://github.com/prasadkanthuri/Portfolio/assets/135444495/2535b775-98c2-457f-aacd-035ddaebf3c9)
+
+
+# 7. Laptop price predictor
 The objective is to develop a laptop price predictor model that can accurately predict the price of a laptop based on its features. The model will be evaluated using a variety of metrics, such as R2 score and MAE. The model will be deployed as a web application so that consumers can use it to make informed decisions about which laptop to buy.
 
 ![Laptop Price Predictor](https://github.com/prasadkanthuri/Portfolio/assets/135444495/d87fce74-2419-4303-a7c2-41e64855ccf1)
