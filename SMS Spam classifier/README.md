@@ -1,3 +1,4 @@
+# SMS SPAM Detector 
 ### Overview
 This SMS Spam Classifier ML project aims to build a machine learning model that can accurately classify SMS messages as either "spam" or "not spam" (ham). Spam messages are unsolicited, often promoting scams or irrelevant content, while ham messages are legitimate and desired communications. The model will be trained on a labeled dataset of SMS messages to learn patterns and characteristics of spam, enabling it to make predictions on new, unseen messages.
 
